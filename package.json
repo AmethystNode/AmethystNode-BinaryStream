@@ -1,0 +1,11 @@
+{
+  "name": "amethystnode-binarystream",
+  "version": "0.0.2",
+  "description": "AmethystNode Binary Stream Module",
+  "main": "src/BinaryStream.js",
+  "keywords": [
+    "AmethystNode",
+    "amethystnode binarystream"
+  ],
+  "author": "AmethystNodeTeam"
+}
